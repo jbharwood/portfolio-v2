@@ -34,28 +34,58 @@ export const links = [
 
 export const experiencesData = [
     {
-        title: 'Graduated bootcamp',
-        location: 'Miami, FL',
+        title: 'Entry Level Training Program Student',
+        company: "BlueCross BlueShield of South Carolina",
+        location: 'Columbia, SC',
         description:
-            'I graduated after 6 months of studying. I immediately found a job as a front-end developer.',
+            'I was trained to code in COBOL and APS.',
+        icon: React.createElement(CgWorkAlt),
+        date: '2015',
+    },
+    {
+        title: 'Database Administrator',
+        company: "BlueCross BlueShield of South Carolina",
+        location: 'Columbia, SC',
+        description:
+            'I worked as a Database Administrator with DB2 and IMS.',
+        icon: React.createElement(CgWorkAlt),
+        date: '2015 - 2018',
+    },
+    {
+        title: 'Graduated Flatiron School coding bootcamp',
+        company: "Flatiron School",
+        location: 'Manhattan, NY',
+        description:
+            'Full Stack Web Development, Ruby on Rails and JavaScript immersive program',
         icon: React.createElement(LuGraduationCap),
         date: '2019',
     },
     {
-        title: 'Front-End Developer',
-        location: 'Orlando, FL',
+        title: 'Freelance IT Consultant',
+        company: "Getaway",
+        location: 'Brooklyn, NY',
         description:
-            'I worked as a front-end developer for 2 years in 1 job and 1 year in another job. I also upskilled to the full stack.',
+            'I did freelance IT work, including creating data visualization reports in Looker to implement to help implement a loyalty program for repeat customers.',
         icon: React.createElement(CgWorkAlt),
-        date: '2019 - 2021',
+        date: '2019 - 2020',
     },
     {
-        title: 'Full-Stack Developer',
-        location: 'Houston, TX',
+        title: 'Junior Web Developer',
+        company: "AllMEDx",
+        location: 'Manhattan, NY',
         description:
-            "I'm now a full-stack developer working as a freelancer. My stack includes React, Next.js, TypeScript, Tailwind, Prisma and MongoDB. I'm open to full-time opportunities.",
-        icon: React.createElement(FaReact),
-        date: '2021 - present',
+            "I was a web developer working with Ruby and MySQL.",
+        icon: React.createElement(CgWorkAlt),
+        date: '2020',
+    },
+    {
+        title: 'Web Developer/Senior Web Developer',
+        company: "Rockstar Games",
+        location: 'Manhattan, NY',
+        description:
+            "I was a web developer working with C#, .NET, React, Vue, JavaScript, TypeScript, Python, SQL Server, and MongoDB.",
+        icon: React.createElement(CgWorkAlt),
+        date: '2020 - 2024',
     },
 ] as const
 
@@ -85,21 +115,21 @@ export const projectsData = [
 export const skillsData = [
     'C#',
     '.NET',
-    'HTML',
-    'CSS',
     'JavaScript',
     'TypeScript',
     'React',
-    'Next.js',
+    'PostgreSQL',
+    'SQL Server',
+    'HTML',
+    'CSS',
     'Vue.js',
     'Quasar',
     'Git',
     'Perforce',
+    'Next.js',
     'Tailwind',
     'MongoDB',
     'Redux',
-    'PostgreSQL',
-    'SQL Server',
     'Unreal Enginer 5',
     'Python',
     'Framer Motion',
