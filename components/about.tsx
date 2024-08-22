@@ -25,9 +25,8 @@ export default function About() {
                 Science minor and enrolled in a coding bootcamp and learned{' '}
                 <span className='font-medium'>full-stack web development</span>.{' '}
                 <span className='italic'>My favorite part of programming</span>{' '}
-                is the creative aspect. I{' '}
-                <span className='underline'>love</span> the feeling of coming up
-                with an idea and bringing it to life. My core stack is{' '}
+                is the creative aspect. I love coming up with an idea and
+                bringing it to life. My core stack is{' '}
                 <span className='font-medium'>
                     React, Next.js, TypeScript, and C#
                 </span>
