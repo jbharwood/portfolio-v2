@@ -59,10 +59,8 @@ export default function Intro() {
                 animate={{ opacity: 1, y: 0 }}
             >
                 <span className='font-bold'>Hi, I'm Joseph!</span> I'm a{' '}
-                <span className='font-bold'>full stack web developer</span>{' '}
-                working in the{' '}
-                <span className='font-bold'>gaming industry</span> with a
-                passion for creating{' '}
+                <span className='font-bold'>full stack web developer</span> with
+                a passion for creating{' '}
                 <span className='italic'>unique user experiences </span> using{' '}
                 <span className='underline'>JavaScript</span>,{' '}
                 <span className='underline'>TypeScript</span>,{' '}

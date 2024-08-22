@@ -1,12 +1,12 @@
-"use client";
+'use client'
 
-import React from "react";
-import SectionHeading from "./section-heading";
-import { motion } from "framer-motion";
-import { useSectionInView } from "@/lib/hooks";
+import React from 'react'
+import SectionHeading from './section-heading'
+import { motion } from 'framer-motion'
+import { useSectionInView } from '@/lib/hooks'
 
 export default function About() {
-  const { ref } = useSectionInView("About");
+    const { ref } = useSectionInView('About')
 
     return (
         <motion.section
@@ -37,8 +37,8 @@ export default function About() {
 
             <p>
                 <span className='italic'>When I'm not coding</span>, I enjoy
-                playing video games, watching movies, reading, playing tennis,
-                and playing guitar.
+                playing and creating video games, watching movies, playing
+                tennis, reading, and playing guitar.
             </p>
         </motion.section>
     )
