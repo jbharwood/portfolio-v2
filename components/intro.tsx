@@ -6,7 +6,7 @@ import { motion } from 'framer-motion'
 import Link from 'next/link'
 import { BsArrowRight, BsLinkedin } from 'react-icons/bs'
 import { FaGithubSquare, FaMedium } from 'react-icons/fa'
-import linkedInImg from '@/public/linkedin.jpg'
+import linkedInImg from '@/public/linkedIn.jpg'
 import { useActiveSectionContext } from '@/context/active-section-context'
 import { useSectionInView } from '@/lib/hooks'
 
