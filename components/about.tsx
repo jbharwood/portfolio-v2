@@ -28,7 +28,7 @@ export default function About() {
                 is the creative aspect. I love coming up with an idea and
                 bringing it to life. My core stack is{' '}
                 <span className='font-medium'>
-                    React, Next.js, TypeScript, and C#
+                    React, Vue, TypeScript, and C#
                 </span>
                 . I am also familiar with Next.js, Ruby on Rails, Python, and
                 C++. I am always looking to learn new technologies.
