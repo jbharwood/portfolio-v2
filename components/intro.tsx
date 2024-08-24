@@ -65,9 +65,8 @@ export default function Intro() {
                 <span className='underline'>JavaScript</span>,{' '}
                 <span className='underline'>TypeScript</span>,{' '}
                 <span className='underline'>C#</span>,{' '}
-                <span className='underline'>React</span>,{' '}
-                <span className='underline'>Vue</span>, and{' '}
-                <span className='underline'>NextJS</span>.
+                <span className='underline'>React</span>, and{' '}
+                <span className='underline'>Vue</span>.
             </motion.h1>
 
             <motion.div

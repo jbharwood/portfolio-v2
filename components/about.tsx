@@ -30,8 +30,8 @@ export default function About() {
                 <span className='font-medium'>
                     React, Next.js, TypeScript, and C#
                 </span>
-                . I am also familiar with Ruby on Rails, Python, and C++. I am
-                always looking to learn new technologies.
+                . I am also familiar with Next.js, Ruby on Rails, Python, and
+                C++. I am always looking to learn new technologies.
             </p>
 
             <p>
